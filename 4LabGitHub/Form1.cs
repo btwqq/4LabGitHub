@@ -16,5 +16,10 @@ namespace _4LabGitHub
         {
             MessageBox.Show("Новая функция добавлена в ветке AddFunction!");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Тест");
+        }
     }
 }
